@@ -1,2 +1,3 @@
-# mindustry-plugin-kt
-Mindustry Plugin Template written by Kotlin
+# Mindustry Plugin Kotlin
+
+> Mindustry Plugin Template written by Kotlin

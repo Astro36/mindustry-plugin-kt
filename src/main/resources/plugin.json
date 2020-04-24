@@ -1,0 +1,7 @@
+{
+    "name": "mindustry-plugin-kt",
+    "author": "Seungjae Park",
+    "main": "ExamplePlugin",
+    "description": "Mindustry Plugin Template written by Kotlin",
+    "version": 1.0
+}
