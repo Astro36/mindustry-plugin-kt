@@ -16,19 +16,19 @@ This template was inspired by [Anuken/ExamplePlugin](https://github.com/Anuken/E
 
     ```json
     {
-        "name": "Your Plugin Name",
-        "displayName": "Your Plugin Display Name (Default=name)",
-        "author": "Developer Name",
-        "description": "Your Plugin Description",
-        "version": "1.0",
-        "main": "ExamplePlugin",
-        "minGameVersion": null
+      "name": "Your Plugin Name",
+      "displayName": "Your Plugin Display Name (Default=name)",
+      "author": "Developer Name",
+      "description": "Your Plugin Description",
+      "version": "1.0",
+      "main": "ExamplePlugin",
+      "minGameVersion": null
     }
     ```
 
     `minGameVersion` must be convertible to integer.
 
-3. Delete original `LICENSE` file.
+3. Delete original `LICENSE` file, or change license file  yours
 4. Check `src/main/kotlin/ExamplePlugin.kt` for some basic commands and event handlers.
 
 ## Build
@@ -48,8 +48,6 @@ You can check the currently installed plugins/mods by running the `mods` command
 ## License
 
 ```text
-MIT License
-
 Copyright (c) 2020 Seungjae Park
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
