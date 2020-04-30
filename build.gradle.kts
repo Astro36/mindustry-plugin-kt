@@ -8,7 +8,7 @@ repositories {
 }
 
 dependencies {
-    implementation(kotlin("stdlib"))
+    implementation(kotlin("stdlib-jdk8"))
     compileOnly("com.github.Anuken.Arc:arc-core:v104.6")
     compileOnly("com.github.Anuken.Mindustry:core:v104.6")
 }
