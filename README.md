@@ -28,7 +28,7 @@ This template was inspired by [Anuken/ExamplePlugin](https://github.com/Anuken/E
 
     `minGameVersion` must be convertible to integer.
 
-3. Delete original `LICENSE` file, or change license file  yours
+3. Delete the original `LICENSE` file or change it to your license file.
 4. Check `src/main/kotlin/ExamplePlugin.kt` for some basic commands and event handlers.
 
 ## Build
@@ -43,7 +43,7 @@ The created jar file is located in `build/libs` directory.
 
 Place the created jar file in the server's `config/mods` directory and restart the server.
 
-You can check the currently installed plugins/mods by running the `mods` command.
+You can check the currently installed plugins by running the `mods` command.
 
 ## License
 
